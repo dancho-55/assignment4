@@ -43,7 +43,6 @@ assignment4/
     styles.css
     forms.js
   README.md
-  DEFENSE_RU.md
   .nojekyll
   netlify.toml
 ```
@@ -63,7 +62,7 @@ Import the GitHub repository into Netlify. Leave the build command empty and use
 
 ## Verification
 
-Browser checks performed: empty registration errors, password mismatch, corrected registration success, reset clearing values and feedback, malformed contact email, and successful contact submission after correction. JavaScript syntax and local page/asset links were also checked. See `DEFENSE_RU.md` for additional manual checks and preparation.
+Browser checks performed: empty registration errors, password mismatch, corrected registration success, reset clearing values and feedback, malformed contact email, and successful contact submission after correction. JavaScript syntax and local page/asset links were also checked.
 
 Publication is not included in the local deliverable; add the actual deployed URL after publishing. Oral defense and live coding must be completed by the student.
 
