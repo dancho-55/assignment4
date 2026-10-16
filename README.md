@@ -9,8 +9,6 @@ A static educational website demonstrating semantic HTML forms, HTML5 constraint
 
 Open `index.html` in a modern browser. No installation, build, or internet connection is needed: Bootstrap 5.3.3 is included locally.
 
-Alternatively, run `python3 -m http.server 8000` from this folder and visit http://localhost:8000.
-
 ## Pages and requirements
 
 | Page | Task | Implementation |
